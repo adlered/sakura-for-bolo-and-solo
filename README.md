@@ -2,6 +2,8 @@
 
 `sakura-for-bolo-and-solo` 主题的 GitHub 仓库地址：[https://github.com/adlered/sakura-for-bolo-and-solo](https://github.com/adlered/sakura-for-bolo-and-solo)
 
+另外，特别感谢来自 `WordPress` 的 `Sakura` 皮肤的原作者 `Mashrio` ：[WordPress 主题 Sakura 🌸](https://2heng.xin/theme-sakura/)
+
 ## 适用博客系统
 
 [Solo](https://github.com/88250/solo) `3.7.0 及以上版本`  
