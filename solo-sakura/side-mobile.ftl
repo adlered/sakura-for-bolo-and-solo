@@ -76,9 +76,9 @@
     </ul>
     <p style="text-align: center; font-size: 13px; color: #b9b9b9;">
         © ${year} <a href="${servePath}">${blogTitle}</a><br><br>
-        Powered by <a href="https://github.com/adlered/bolo-solo" target="_blank">菠萝博客 Bolo</a><br>
+        Powered by <a href="https://github.com/88250/solo" target="_blank">Solo</a><br>
         Theme <a rel="friend" href="https://github.com/mashirozx/Sakura" target="_blank">${skinDirName}</a>
-        by <a rel="friend" href="https://hello.2heng.xin/@mashiro" target="_blank">Mashiro</a><br>
+        by <a rel="friend" href="https://github.com/adlered" target="_blank">adlered</a><br>
         ${footerContent}
     </p>
 </div>
