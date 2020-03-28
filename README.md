@@ -1,3 +1,7 @@
+## ❤️喜欢该主题请为我点个 Star ~
+
+`sakura-for-bolo-and-solo` 主题的 GitHub 仓库地址：[https://github.com/adlered/sakura-for-bolo-and-solo](https://github.com/adlered/sakura-for-bolo-and-solo)
+
 ## 适用博客系统
 
 [Solo](https://github.com/88250/solo) `3.7.0 及以上版本`  
