@@ -1,7 +1,7 @@
 <#--
 
-    Solo - A small and beautiful blogging system written in Java.
-    Copyright (c) 2010-present, b3log.org
+    Bolo - A stable and beautiful blogging system based in Solo.
+    Copyright (c) 2020, https://github.com/adlered
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
@@ -93,7 +93,7 @@
             }
 
             .centerbg {
-                background-image: url("https://api.2heng.xin/cover/");
+                background-image: url("https://programmingwithlove.stackoverflow.wiki/randombg");
                 background-position: center center;
                 background-attachment: inherit;
             }
